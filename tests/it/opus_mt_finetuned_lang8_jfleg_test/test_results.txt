@@ -1,0 +1,15 @@
+epoch: 49.000000
+loss: 0.049548
+step_count: 252.000000
+test_avg_bleu: 47.484621
+test_avg_gen_time: 0.175102
+test_avg_loss: 0.526579
+test_avg_summ_len: 76.437500
+test_bleu: 47.484619
+test_loss: 0.526579
+val_avg_bleu: 39.622872
+val_avg_gen_time: 0.175349
+val_avg_loss: 0.987946
+val_avg_summ_len: 74.880000
+val_bleu: 39.622871
+val_loss: 0.987946

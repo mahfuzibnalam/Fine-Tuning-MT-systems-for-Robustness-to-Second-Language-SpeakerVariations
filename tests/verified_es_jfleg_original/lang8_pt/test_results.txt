@@ -1,0 +1,7 @@
+step_count: 1.000000
+test_avg_bleu: 3.307326
+test_avg_gen_time: 0.412624
+test_avg_loss: 5.456650
+test_avg_summ_len: 51.840125
+test_bleu: 3.307326
+test_loss: 5.456650
