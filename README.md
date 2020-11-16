@@ -1,2 +1,5 @@
 # finetuning_for_robustness
-Clone this repository into /transformers/examples/seq2seq/ folder.
+Steps:
+1. Clone this repository into this folder: /transformers/examples/seq2seq/ .
+2. Run this file: ./finetune_optus-mt.sh .
+3. Enjoy.
